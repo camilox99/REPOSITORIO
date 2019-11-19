@@ -1,0 +1,32 @@
+<!--==========================
+      Services Section
+    ============================-->
+    <section id="services">
+      <div class="container">
+
+        <header class="section-header wow fadeInUp">
+          <h3>TIENDA</h3>
+          <p></p>
+        </header>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+	<div class="icon"><i class="ion-ios-paper-outline"></i></div>
+           <a href="#intro"><img src="img/preloader.gif" a="center" alt="" title="logo" /></a>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <a href="#intro"><img src="img/preloader.gif" a="center" alt="" title="logo" /></a>
+         
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+             <a href="#intro"><img src="img/preloader.gif" a="center" alt="" title="logo" /></a>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section><!-- #services -->
