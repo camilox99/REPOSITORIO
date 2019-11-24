@@ -66,9 +66,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 5px;
   color: #fff;
 }
-
-
-
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -438,6 +435,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
+
 #intro .carousel-control-next-icon, #intro .carousel-control-prev-icon {
   background: none;
   font-size: 32px;
@@ -633,15 +631,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item {
   position: absolute;
-  height: 230px;
-  width: 430px;
+  height: 300px;
+  width: 400px;
   overflow: hidden;
 }
 
 #portfolio .portfolio-item figure {
   background: #000;
   overflow: hidden;
-
   position: absolute;
   border-radius: 1px 1px 0 0;
   margin: 0;
