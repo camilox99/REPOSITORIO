@@ -892,7 +892,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #000;
   overflow: hidden;
   border-radius: 1px 1px 0 0;
-  margin: 0;
+  margin: 5px 0 25px 0;
 }
 
 #portfolio .portfolio-item figure:hover img {
